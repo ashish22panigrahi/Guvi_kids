@@ -11,10 +11,10 @@ class Main {
             a=a/10;
         }
         if(rev==temp){
-            System.out.println("palindrome");
+            System.out.println("Yes");
         }
         else{
-            System.out.println("not palindrome");
+            System.out.println("No");
         }
     }
 }
